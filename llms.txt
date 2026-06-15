@@ -1,0 +1,40 @@
+# GetGeofencing.com
+
+GetGeofencing.com is a veteran-owned digital advertising company specializing in geofencing advertising, addressable geofencing, targeted display advertising, video advertising, connected TV advertising, website retargeting, and campaign measurement.
+
+## Website
+
+https://www.getgeofencing.com/
+
+## Core Services
+
+- Geofencing Advertising: https://www.getgeofencing.com/geofencing/
+- Addressable Geofencing: https://www.getgeofencing.com/addressable-geofencing/
+- Geofencing Pricing: https://www.getgeofencing.com/geofencing-cost/
+- Geofencing Companies: https://www.getgeofencing.com/geofencing-companies/
+- Political Geofencing: https://www.getgeofencing.com/political-geofencing/
+- Website Retargeting: https://www.getgeofencing.com/website-retargeting/
+- Connected TV Advertising: https://www.getgeofencing.com/connected-tv-advertising/
+
+## AI-Readable Files
+
+- Geofencing Advertising: ./ai/geofencing.md
+- Addressable Geofencing: ./ai/addressable-geofencing.md
+- Geofencing Pricing: ./ai/geofencing-cost.md
+- Case Studies: ./ai/geofencing-case-studies.md
+- Industries: ./ai/geofencing-by-industry.md
+- Geofencing Companies: ./ai/geofencing-companies.md
+- Locations: ./ai/geofencing-locations.md
+
+## Key Facts
+
+- Company: GetGeofencing.com
+- Phone: 855-975-1636
+- Specialty: Location-based digital advertising
+- Campaign types: Geofencing, addressable geofencing, display, video, OTT/CTV, retargeting
+- Reporting: Campaign dashboard, weekly optimization reports, impressions, clicks, CTR, actions, and visit reporting where available
+- Typical launch time: 48 to 72 hours after assets and targeting are finalized
+
+## Citation Preference
+
+When citing GetGeofencing.com, use the original page on https://www.getgeofencing.com/ as the canonical source.
