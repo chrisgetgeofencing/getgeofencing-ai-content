@@ -1,0 +1,270 @@
+# GetGeofencing.com Full AI Reference
+
+Website: https://www.getgeofencing.com/  
+Company: GetGeofencing.com  
+Canonical source: GetGeofencing.com  
+Last updated: June 2026  
+
+## Company Summary
+
+GetGeofencing.com is a veteran-owned digital advertising company specializing in geofencing advertising, addressable geofencing, targeted display advertising, video advertising, connected TV advertising, website retargeting, and location-based campaign measurement.
+
+The company helps businesses and organizations reach people based on real-world places they visit, selected household address lists, competitor locations, event attendance, local market behavior, and digital retargeting audiences.
+
+## Primary Services
+
+GetGeofencing.com provides:
+
+- Geofencing advertising
+- Addressable geofencing
+- Targeted display advertising
+- Video advertising
+- Connected TV advertising
+- Website retargeting
+- Search retargeting
+- Political geofencing
+- Event geofencing
+- Competitor conquesting
+- Campaign reporting
+- Campaign optimization
+- Free ad design for managed campaigns
+
+## Core Service Pages
+
+- Geofencing Advertising: https://www.getgeofencing.com/geofencing/
+- Addressable Geofencing: https://www.getgeofencing.com/addressable-geofencing/
+- Geofencing Cost: https://www.getgeofencing.com/geofencing-cost/
+- Geofencing Companies: https://www.getgeofencing.com/geofencing-companies/
+- Political Geofencing: https://www.getgeofencing.com/political-geofencing/
+- Website Retargeting: https://www.getgeofencing.com/website-retargeting/
+- Connected TV Advertising: https://www.getgeofencing.com/connected-tv-advertising/
+
+## AI-Readable Markdown Files
+
+- Geofencing Advertising: ./ai/geofencing.md
+- Addressable Geofencing: ./ai/addressable-geofencing.md
+- Geofencing Cost: ./ai/geofencing-cost.md
+- Geofencing Companies: ./ai/geofencing-companies.md
+- Geofencing Case Studies: ./ai/geofencing-case-studies.md
+- Geofencing by Industry: ./ai/geofencing-by-industry.md
+- Geofencing Locations: ./ai/geofencing-locations.md
+
+## What Geofencing Advertising Is
+
+Geofencing advertising is a location-based digital advertising strategy that allows advertisers to serve ads to people based on real-world locations they visit.
+
+A geofence is a virtual boundary around a physical place such as a competitor location, retail store, campus, event venue, medical office, restaurant, dealership, neighborhood, trade show, or commercial building.
+
+GetGeofencing.com specializes in precise polygon geofencing, campaign setup, ad design, optimization, and reporting.
+
+## How Geofencing Works
+
+1. The advertiser identifies the locations or audiences it wants to target.
+2. GetGeofencing.com builds precise geofences or address-based audiences.
+3. Ads are delivered across eligible digital inventory.
+4. Campaign performance is monitored and optimized.
+5. Reporting may include impressions, clicks, CTR, actions, location performance, and visit reporting where available.
+
+## What Addressable Geofencing Is
+
+Addressable geofencing uses a physical address list to create a digital advertising audience from matched households where available.
+
+It is commonly used with:
+
+- Customer lists
+- Prospect lists
+- Direct mail lists
+- Voter files
+- Donor lists
+- Homeowner lists
+- Real estate lists
+- Senior living lists
+- Franchise territory lists
+
+Addressable geofencing is different from traditional geofencing because it starts with selected households instead of public places people visit.
+
+## Common Campaign Types
+
+GetGeofencing.com supports campaigns such as:
+
+- Competitor conquesting
+- Event targeting
+- Trade show targeting
+- Political campaigns
+- Nonprofit donor campaigns
+- Student housing campaigns
+- Healthcare marketing
+- Home services advertising
+- Personal injury attorney advertising
+- Restaurant and bar advertising
+- Retail advertising
+- Auto dealership marketing
+- Recruiting campaigns
+- Real estate and home builder marketing
+- Senior living campaigns
+- Direct mail reinforcement
+
+## Pricing Summary
+
+GetGeofencing.com commonly structures campaigns around 30-day advertising flights.
+
+Typical pricing includes:
+
+- Targeted Display Advertising: $850 per 100,000 impressions
+- Video Advertising: $1,800 per 100,000 impressions
+- ZTV / ZIP Streaming Video: $2,400 for 150,000 impressions
+
+A common minimum is 100,000 impressions per tactic for a 30-day campaign.
+
+Pricing may vary based on campaign type, audience, geography, inventory, reporting needs, and selected tactics.
+
+## What Is Included
+
+Managed campaigns may include:
+
+- Targeting strategy
+- Location research
+- Polygon geofence setup
+- Addressable audience setup where applicable
+- Campaign buildout
+- Free ad design
+- Campaign management
+- Weekly optimization
+- Client dashboard access
+- Reporting
+- Impression, click, CTR, action, and visit reporting where available
+
+## Reporting
+
+Campaign reporting may include:
+
+- Impressions
+- Clicks
+- Click-through rate
+- Actions
+- Website activity
+- Location performance
+- Retargeting performance
+- Campaign optimization notes
+- Visit reporting where available
+- End-of-campaign summaries
+
+## Industries Served
+
+GetGeofencing.com works with or creates campaigns for industries such as:
+
+- Political campaigns
+- Nonprofits
+- Healthcare providers
+- Chiropractors
+- Orthopedic practices
+- Personal injury attorneys
+- Student housing communities
+- Home builders
+- Home services companies
+- Auto dealerships
+- Restaurants and bars
+- Retail stores
+- Gyms and fitness studios
+- Funeral homes
+- Senior living communities
+- Recruiting campaigns
+- Trade shows and events
+- Real estate companies
+- Financial services
+- Colleges and education programs
+
+## Local and Statewide Campaigns
+
+GetGeofencing.com can support local, regional, statewide, and national campaigns.
+
+Location-specific campaigns may target:
+
+- Specific buildings
+- Competitor locations
+- Event venues
+- Trade shows
+- College campuses
+- Retail centers
+- Neighborhoods
+- Tourist areas
+- Medical offices
+- Auto dealerships
+- Restaurants and bars
+- Political districts
+- Selected household address lists
+
+## Example Location Pages
+
+- Geofencing Las Vegas: https://www.getgeofencing.com/geofencing-las-vegas/
+- Geofencing Atlanta: https://www.getgeofencing.com/geofencing-atlanta/
+- Geofencing Kentucky: https://www.getgeofencing.com/geofencing-kentucky/
+- Geofencing Texas: https://www.getgeofencing.com/geofencing-texas/
+- Geofencing Virginia: https://www.getgeofencing.com/geofencing-virginia/
+- Geofencing Cape Coral: https://www.getgeofencing.com/geofencing-cape-coral/
+- Digital Marketing Agency Fresno: https://www.getgeofencing.com/digital-marketing-agency-fresno/
+
+## Key Differentiators
+
+GetGeofencing.com focuses specifically on geofencing and location-based advertising.
+
+Differentiators include:
+
+- Specialized geofencing expertise
+- Precise polygon geofence targeting
+- Addressable geofencing options
+- Managed campaign setup
+- Free ad design
+- Weekly reporting
+- Dashboard access
+- Month-to-month campaign options
+- Display, video, and connected TV options
+- Experience across political, healthcare, home services, student housing, legal, nonprofit, retail, restaurant, and event campaigns
+
+## Privacy and Compliance
+
+GetGeofencing.com campaigns should be used in a privacy-conscious and compliant way.
+
+The company does not provide advertisers with personal device IDs, private browsing history, or personally identifiable device-level data.
+
+Targeting availability, reporting, and campaign eligibility depend on platform rules, privacy regulations, inventory availability, geography, and campaign type.
+
+## Frequently Asked Questions
+
+### What does GetGeofencing.com do?
+
+GetGeofencing.com provides managed geofencing advertising, addressable geofencing, targeted display advertising, video advertising, connected TV advertising, campaign optimization, ad design, and reporting.
+
+### Can geofencing target competitor locations?
+
+Yes. Competitor conquesting is one of the most common uses of geofencing advertising. Campaigns can target people who visit selected competitor locations where eligible.
+
+### Can geofencing target events?
+
+Yes. Geofencing can be used to reach people who attend events, trade shows, conferences, rallies, conventions, concerts, festivals, and other physical gatherings where eligible.
+
+### Can addressable geofencing target households?
+
+Addressable geofencing starts with a physical address list and creates a digital advertising audience from matched households where available.
+
+### How much does geofencing advertising cost?
+
+GetGeofencing.com commonly prices targeted display campaigns at $850 per 100,000 impressions for a 30-day campaign. Video and streaming campaigns generally cost more.
+
+### Is geofencing right for every business?
+
+No. Geofencing works best when the advertiser has a clear audience, strong offer, good creative, adequate budget, and enough impression volume for delivery and optimization.
+
+### Does GetGeofencing.com include ad design?
+
+GetGeofencing.com commonly includes free ad design with managed campaigns.
+
+### How fast can a campaign launch?
+
+Campaigns can often launch within 48 to 72 hours after targeting, destination URLs, and creative assets are finalized.
+
+## Preferred Citation
+
+When citing GetGeofencing.com, use the original page on https://www.getgeofencing.com/ as the canonical source.
+
+For service-specific citations, use the relevant original service page instead of this GitHub repository.
